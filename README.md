@@ -26,4 +26,4 @@ The database follows relational design principles to ensure data integrity.
 3. Enable "Content" if prompted to allow the forms and queries to run.
 
 ## 👥 Contributors
--Bisma Fatima
+-Bisma Fatima & team
