@@ -25,5 +25,11 @@ The database follows relational design principles to ensure data integrity.
 2. Open it using **Microsoft Access 2016** or later.
 3. Enable "Content" if prompted to allow the forms and queries to run.
 
+## 🎓 Academic Context
+- **Course:** Database Management Systems (DBMS)
+- **Semester:** 3rd Semester
+- **University:** [lahore College for Women University]
+- **Project Type:** Group Project
+- 
 ## 👥 Contributors
--Bisma Fatima & team
+-[Bisma Fatima & team]
